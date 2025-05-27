@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"9c141318ee130d25","x":-106,"y":38,"width":250,"height":60,"type":"text","text":"组件1:activity"},
+		{"id":"84cfaadb1523b6bb","x":-106,"y":160,"width":250,"height":60,"type":"text","text":"service"},
+		{"id":"a0f0b4bc13e6972b","x":-106,"y":280,"width":250,"height":60,"type":"text","text":"广播"}
+	],
+	"edges":[]
+}

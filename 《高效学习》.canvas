@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"35ba832231de5f4f","type":"text","text":"# 高效学习：7个学习习惯","x":447,"y":178,"width":333,"height":62,"color":"1"},
+		{"id":"57ed3828020ffafa","type":"text","text":"## 自学","x":882,"y":-60,"width":250,"height":60},
+		{"id":"d342f21adbd4b1c4","x":880,"y":100,"width":250,"height":60,"type":"text","text":"## 独特视角"},
+		{"id":"287dd0ffb04cb9b8","x":880,"y":180,"width":250,"height":60,"type":"text","text":"## 学习方法"},
+		{"id":"ae95429840a2ca27","x":880,"y":260,"width":250,"height":60,"type":"text","text":"## 时间管理"},
+		{"id":"5075a7ded54921c5","x":880,"y":340,"width":250,"height":60,"type":"text","text":"## 有选择地阅读"},
+		{"id":"13e59820ba09ba44","x":880,"y":420,"width":250,"height":60,"type":"text","text":"## 输出强化知识"},
+		{"id":"b3e6d0481cabc2fa","x":880,"y":20,"width":250,"height":60,"type":"text","text":"## 学前准备"}
+	],
+	"edges":[
+		{"id":"0c228b71a9dac1f0","fromNode":"35ba832231de5f4f","fromSide":"right","toNode":"57ed3828020ffafa","toSide":"left"},
+		{"id":"0996128cf4972255","fromNode":"35ba832231de5f4f","fromSide":"right","toNode":"d342f21adbd4b1c4","toSide":"left"},
+		{"id":"fdbfa9565a31ac7a","fromNode":"35ba832231de5f4f","fromSide":"right","toNode":"287dd0ffb04cb9b8","toSide":"left"},
+		{"id":"9225c476f253e51a","fromNode":"35ba832231de5f4f","fromSide":"right","toNode":"ae95429840a2ca27","toSide":"left"},
+		{"id":"3a34c0d84badf417","fromNode":"35ba832231de5f4f","fromSide":"right","toNode":"5075a7ded54921c5","toSide":"left"},
+		{"id":"2a51bf65c5a2207f","fromNode":"35ba832231de5f4f","fromSide":"right","toNode":"13e59820ba09ba44","toSide":"left"},
+		{"id":"86907e6fbe6b9f47","fromNode":"35ba832231de5f4f","fromSide":"right","toNode":"b3e6d0481cabc2fa","toSide":"left"}
+	]
+}
